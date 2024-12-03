@@ -1,4 +1,4 @@
-#Humanity as a toolbar (HaaT) 
+# Humanity as a toolbar (HaaT) 
 
 ## Abstract:
 
