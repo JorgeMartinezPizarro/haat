@@ -49,7 +49,12 @@
     - FIXES: [0743] They ate them all.
     - Adjusting parameters: stamina = -0.9, gratitude = +1.7
 
-[1.0.7] – Stars.py
+[1.0.8] – Numbers.py
+
+    - It keeps working.
+    - Adjusting parameters: (unchanged).
+
+[1.0.9] – Stars.py
 
     - It keeps working.
     - Adjusting parameters: (unchanged).
