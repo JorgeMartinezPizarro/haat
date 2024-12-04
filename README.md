@@ -12,7 +12,7 @@
 
 ## Guideline:
 
- - Data unboxing
+ - Data digging
  - Test the fact
  - Keep it simple
  - Too much infomation
