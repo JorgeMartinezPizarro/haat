@@ -46,7 +46,7 @@
 
 [1.0.6] – Resources.py
 
-    - FIXES: [0743] The ate them all.
+    - FIXES: [0743] They ate them all.
     - Adjusting parameters: stamina = -0.9, gratitude = +1.7
 
 [1.0.7] – Stars.py
