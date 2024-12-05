@@ -13,19 +13,24 @@ I was working in tests fixing and found a bug:
 ```
 
 - System Specs:
-    • RAM: 64GB
-    • CORES: 30
-    • PROCESSOR: 4500MHZ
+    - RAM: 64GB
+    - CORES: 30
+    - PROCESSOR: 4500MHZ
 - System Logs:
 
 2023-12-04T12:34:56.789Z - Starting health check... 
+
 2023-12-04T12:34:57.890Z - Warning: Container 123 not responding 
+
 2023-12-04T12:34:58.901Z - Retry attempt 1: OK 
+
 2023-12-04T12:34:59.012Z - Starting health check... 
+
 2023-12-04T12:35:00.123Z - Warning: Container 456 not responding 
+
 2023-12-04T12:35:01.234Z - Logs truncated... [Read More] 
 
-Can anyone help me, please?
+Can anyone help me, please? I am running out of time.
 
 ## Mikel:
 
