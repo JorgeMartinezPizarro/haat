@@ -1,4 +1,6 @@
-# Issue [1975]: Flacky Tests
+# Example 1
+
+Issue [1975]: Flacky Tests
 
 ## Miguel: 
 
@@ -46,8 +48,26 @@ https://docs.it.com?page=123121
 
 ## Miguel:
 
-Thanks a lot guy, you safed me a lot of time.
+Thanks a lot guy, you safed me a lot of time, you are really kind.
 
 ## Mikel:
 
-Np.
+No problem.
+
+# Example 2
+
+```bash
+$ upload news --live
+[INFO] Upload initiated: Target data size 19PB.
+[....] Upload progress: 14%
+
+[ERROR] Connectivity issues detected.
+[ERROR] "Meaning not found." Unresolved dependencies detected.
+
+Suggested actions to resolve the issue:
+- Update humanity to the latest version: `sudo apt-get upgrade humanity` or `brew update humanity`
+- Retry the operation with force: `upload news --live --force`
+- Contact your cloud provider for further assistance.
+
+Would you like to retry? (y/N): 
+```
