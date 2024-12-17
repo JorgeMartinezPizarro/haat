@@ -68,6 +68,7 @@ Suggested actions to resolve the issue:
 - Update humanity to the latest version: `sudo apt-get upgrade humanity` or `brew update humanity`
 - Retry the operation with force: `upload news --live --force`
 - Contact your cloud provider for further assistance.
+- Consider an upgrade of hardware, look at the system requirements in the FAQ.
 
 Would you like to retry? (y/N): 
 ```
