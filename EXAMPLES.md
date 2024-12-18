@@ -40,7 +40,7 @@ Try with:
 
 ```python 
 while (true): 
-   sleep(8 * 60 * 1000) 
+   sleep(8 * 60 * 60 * 1000) 
    check(this)
 ```
 
