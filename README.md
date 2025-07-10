@@ -31,7 +31,7 @@
 
 [1.0.3] – Speed.py
 
-    - FIXES: [0043] Loops stop working.
+    - FIXES: [0043] Clocks stop working.
     - Adjusting parameters: haste = -0.3, patience = +1.1
 
 [1.0.4] – Knowledge.py
