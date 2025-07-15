@@ -15,7 +15,7 @@
  - Data digging
  - Test the fact
  - Keep it simple
- - Too much infomation
+ - Too much information
 
 ## SAMPLE
 
